@@ -41,4 +41,4 @@ My goal is to deepen **my knowledge** in computing and contribute to **impactful
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/NK07K/NK07K/main/dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NK07K/README.md/output/github-snake.svg)
