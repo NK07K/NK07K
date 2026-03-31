@@ -13,17 +13,10 @@ My goal is to deepen **my knowledge** in computing and contribute to **impactful
 
 ### 🔗 Academic & Professional Profiles
 
-<p align="left">
-<a href="https://orcid.org/0009-0004-0717-1774">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/tiagofabrini">
+<a href="https://www.linkedin.com/in/yan-nicolas-cardoso-dos-santos-2b6274306/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://lattes.cnpq.br/3152728960471144">
-<img src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge"/>
-</a>
-<a href="https://github.com/Fabr1n?tab=followers">
+<a href="https://github.com/NK07K?tab=followers">
 <img src="https://custom-icon-badges.demolab.com/github/followers/Fabr1n?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"/>
 </a>
 </p>
