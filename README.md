@@ -28,25 +28,6 @@ My goal is to deepen **my knowledge** in computing and contribute to **impactful
 <p>
   <img alt="Python" title="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
   <img alt="Go" title="Go" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />  
-  <img alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="NodeJS" title="NodeJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" title="Express" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img alt="HTML5" title="HTML5" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="MySQL" title="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="Git" title="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
-
----
-
-### 🏆 Featured Projects & Achievements
-
-- **[GO UAI TECH Hackathon](https://github.com/Fabr1n/HACKATHON)**: Participated in developing the solution that secured **4th place** for our team, utilizing JavaScript, Node.js, Express, HTML5, and CSS3.
-
-<p align="center">
-  <a href="https://github.com/Fabr1n/HACKATHON">
-    <img alt="Hackathon Repo Card" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Fabr1n&repo=HACKATHON&theme=tokyonight" />
-  </a>
 </p>
 
 ---
@@ -54,10 +35,10 @@ My goal is to deepen **my knowledge** in computing and contribute to **impactful
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img alt="GitHub Stats" height="195" style="padding-right:10px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fabr1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img alt="Top Languages" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabr1n&theme=tokyonight&layout=compact&langs_count=6" />
+  <img alt="GitHub Stats" height="195" style="padding-right:10px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NK07K&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img alt="Top Languages" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NK07K&theme=tokyonight&layout=compact&langs_count=6" />
 </p>
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Fabr1n/Fabr1n/main/dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NK07K/NK07K/main/dist/github-snake.svg)
