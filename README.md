@@ -28,12 +28,8 @@ My goal is to deepen **my knowledge** in computing and contribute to **impactful
 <p>
   <img alt="Python" title="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
   <img alt="Go" title="Go" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />  
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img alt="HTML5" title="HTML5" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<i class="devicon-html5-plain colored" 
-   title="HTML5" 
-   style="font-size:35px; padding-right:10px;">
-</i>
                               
           
 </p>
