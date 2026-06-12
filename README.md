@@ -5,7 +5,7 @@
 Hi! I'm **Yan Nicolas Cardoso dos Santos**, 18 years old, from Brazil.  
 Currently, I am pursuing a **Bachelor's degree in Software Engineering** at the **Federal University of Goiás (UFG)**.  
 
-I’m particularly interested in **cyber security**, and **scientific computing**. I also have a strong interest in research and technological development related to AI, especially initiatives connected to institutions such as the **Center of Excellence in Artificial Intelligence (CEIA)**, **AKCIT research network** and **CISCO**
+I’m particularly interested in **UI/UIX**, and **QA**. I also have a strong interest in research and technological development related to AI, especially initiatives connected to institutions such as the **Center of Excellence in Artificial Intelligence (CEIA)**, **AKCIT research network** and **CISCO**
 
 My goal is to deepen **my knowledge** in computing and contribute to **impactful technological** and **scientific projects**.  
 
