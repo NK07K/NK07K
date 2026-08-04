@@ -7,7 +7,7 @@ Currently, I am pursuing a **Bachelor's degree in Software Engineering** at the 
 
 I’m particularly interested in **UI/UIX**, and **QA**. I also have a strong interest in research and technological development related to AI, especially initiatives connected to institutions such as the **Center of Excellence in Artificial Intelligence (CEIA)**, **AKCIT research network** and **CISCO**
 
-Some projects programmed of me in the year of 2026, how for example a dashboard with the objective of organized the choices of presents for a marring celebration, a system for automatics messages and a integration project in my University (UFG) in Brazil with the colaboration of the flamboyant shopping center for a dashboard administrative programmed with all my class of 2026 first period.
+I have some projects programmed by me in the year of 2026, how for example a dashboard with the objective of organized the choices of presents for a marring celebration, a system for automatics messages (build by my self alone) and a integration project in my University (UFG) in Brazil with the colaboration of the flamboyant shopping center for a dashboard administrative programmed with all my class of 2026 first period.
 
 My goal is to deepen my knowledge in computing and contribute to **impactful technological** and **scientific projects**.
 
